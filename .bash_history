@@ -63,3 +63,21 @@ git add .
 git commit -m "hi"
 git remote add origin https://github.com/deepak0894/Assignment-3.git
 git push -u origin master
+git init
+git add ghg
+git add README.md
+git init
+git add .
+git commit -m "hell"
+git remote add origin 
+git push -u origin master
+git init
+git add F:\android\MyAcelerometer
+git commit -m "hellop"
+git remote add origin https://github.com/deepak0894/accelro.git
+git push -u origin master
+git init 
+git add F:\android\MyApp
+git commit -m "first commit"
+git remote add origin https://github.com/deepak0894/iit-kgp.git
+git push -u origin master
