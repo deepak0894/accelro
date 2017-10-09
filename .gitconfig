@@ -1,0 +1,7 @@
+[user]
+	email = deepak.kr3399@gmail.com
+	name = Deepak
+[http]
+	proxy = 172.16.2.30:8080
+[https]
+	proxy = 172.16.2.30:8080

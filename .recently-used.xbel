@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file://C:\Users\Deepak\Documents\JJDCCL" added="2015-08-09T03:59:57Z" modified="2015-08-09T03:59:57Z" visited="2015-08-09T04:46:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="gnusim8085.exe" exec="&apos;gnusim8085.exe %u&apos;" timestamp="1439092797" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file://C:\Users\Deepak\Documents\DOIDO" added="2015-08-09T04:10:06Z" modified="2015-08-09T04:10:06Z" visited="2015-08-09T04:46:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="gnusim8085.exe" exec="&apos;gnusim8085.exe %u&apos;" timestamp="1439093406" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file://C:\Users\Deepak\Documents\YUFKJBKJBKJBJVH" added="2015-08-11T17:09:44Z" modified="2015-08-11T17:09:44Z" visited="2015-08-14T16:14:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="gnusim8085.exe" exec="&apos;gnusim8085.exe %u&apos;" timestamp="1439312984" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file://C:\Users\Deepak\Documents\WNLKNLNLSNLNLUIGUIGDWIUGDU" added="2015-08-16T16:06:58Z" modified="2015-08-16T16:06:58Z" visited="2015-08-16T16:08:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="gnusim8085.exe" exec="&apos;gnusim8085.exe %u&apos;" timestamp="1439741218" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file://C:\Users\Deepak\Documents\guiguibjkbjbkjjbbbj" added="2015-09-01T14:07:21Z" modified="2015-09-01T14:07:21Z" visited="2015-09-01T15:03:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="gnusim8085.exe" exec="&apos;gnusim8085.exe %u&apos;" timestamp="1441116441" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
